@@ -15,5 +15,5 @@ output/
 manifest/output/
 temp/
 temp.yaml
-bin
+log/
 **/config/config.yaml
