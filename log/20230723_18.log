@@ -1,0 +1,383 @@
+2023-07-23 18:13:21.145 [INFO] {28e8987c8b7774179996b944ff91da30} ProxyURL: http://localhost:7890
+2023-07-23 18:13:21.147 [INFO] {28e8987c8b7774179996b944ff91da30} ProxyURL: http://localhost:7890
+2023-07-23 18:13:27.561 [INFO] {28e8987c8b7774179996b944ff91da30} [DISCORD] server start
+2023-07-23 18:13:33.439 [INFO] {f47960598e7774179b96b94423aaec16} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:sky boy cat}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}
+2023-07-23 18:13:37.045 [INFO] {f47960598e7774179b96b94423aaec16} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:sky boy cat}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}, response: 
+2023-07-23 18:13:37.046 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217046,"startTime":0,"finishTime":0,"imageUrl":"","status":"NOT_START","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:37.289 [INFO] {2c80c83e8f7774179c96b94458c8d2ce} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (Waiting to start)
+2023-07-23 18:13:37.290 [INFO] {2c80c83e8f7774179c96b94458c8d2ce} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:37.290 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:50.949 [INFO] {b040116d927774179d96b94410cf8c46} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (0%) (fast)
+2023-07-23 18:13:50.950 [INFO] {b040116d927774179d96b94410cf8c46} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616558544437268/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:50.951 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616558544437268/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:57.121 [INFO] {dc3cf5dc937774179e96b9443da94ad0} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (15%) (fast)
+2023-07-23 18:13:57.122 [INFO] {dc3cf5dc937774179e96b9443da94ad0} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616583609597983/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:13:57.123 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616583609597983/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:01.927 [INFO] {b4346afb947774179f96b944b87df63c} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (31%) (fast)
+2023-07-23 18:14:01.928 [INFO] {b4346afb947774179f96b944b87df63c} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616603666747402/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:01.928 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616603666747402/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:07.363 [INFO] {dc22643f96777417a096b9445248dd27} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (46%) (fast)
+2023-07-23 18:14:07.363 [INFO] {dc22643f96777417a096b9445248dd27} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616624621494343/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:07.364 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616624621494343/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:11.705 [INFO] {3cb8384297777417a196b944661f6764} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (62%) (fast)
+2023-07-23 18:14:11.706 [INFO] {3cb8384297777417a196b944661f6764} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616645345558538/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:11.706 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616645345558538/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:16.330 [INFO] {b0fcde5598777417a296b9444e2ee822} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (78%) (fast)
+2023-07-23 18:14:16.331 [INFO] {b0fcde5598777417a296b9444e2ee822} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616664425447494/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:16.331 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616664425447494/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:21.184 [INFO] {d00f2f7799777417a396b94415e65c23} [DISCORD] Midjourney Bot MessageId: 1132616501736788098, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (93%) (fast)
+2023-07-23 18:14:21.185 [INFO] {d00f2f7799777417a396b94415e65c23} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616684688121866/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:21.185 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616684688121866/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:14:26.891 [INFO] {04ea61cb9a777417a496b944103f1eb6} [DISCORD] Midjourney Bot MessageId: 1132616705600929814, MessageType: 0, MessageContent: **sky boy cat** - <@1097625793154256917> (fast)
+2023-07-23 18:16:04.947 [INFO] {04ea61cb9a777417a496b944103f1eb6} task: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":1690107364945,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616705202462720/lokakk_sky_boy_cat_a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132616705600929814","messageHash":"","finalPrompt":"","progressMessageId":"1132616705202462720"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2}]}
+2023-07-23 18:16:04.949 [INFO] {745a14fb8c7774179a96b944db4dfcc0} queueItem: {"id":"1683057771341152256","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690107217290,"startTime":0,"finishTime":1690107364945,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132616705202462720/lokakk_sky_boy_cat_a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132616705600929814","messageHash":"","finalPrompt":"","progressMessageId":"1132616705202462720"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::a26c404b-a4a9-4b81-b7f4-f67c3fa51ef4","type":2}]}
+2023-07-23 18:29:21.151 [INFO] {a0935b016b7874178ad4316e1af21ca9} ProxyURL: http://localhost:7890
+2023-07-23 18:29:21.152 [INFO] {a0935b016b7874178ad4316e1af21ca9} ProxyURL: http://localhost:7890
+2023-07-23 18:29:27.866 [INFO] {a0935b016b7874178ad4316e1af21ca9} [DISCORD] server start
+2023-07-23 18:29:31.716 [INFO] {c0751d776d7874178cd4316ec809938d} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:sky boy cat}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}
+2023-07-23 18:29:34.569 [INFO] {c0751d776d7874178cd4316ec809938d} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:sky boy cat}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}, response: 
+2023-07-23 18:29:34.570 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108174570,"startTime":0,"finishTime":0,"imageUrl":"","status":"NOT_START","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:35.472 [INFO] {44350d576e7874178dd4316eb77e51dd} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (Waiting to start)
+2023-07-23 18:29:35.474 [INFO] {44350d576e7874178dd4316eb77e51dd} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:35.474 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:47.235 [INFO] {64542c14717874178ed4316ebf47ddde} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (0%) (fast)
+2023-07-23 18:29:47.236 [INFO] {64542c14717874178ed4316ebf47ddde} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620569356009483/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:47.237 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620569356009483/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:53.188 [INFO] {b8b0f476727874178fd4316e055adf8e} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (15%) (fast)
+2023-07-23 18:29:53.188 [INFO] {b8b0f476727874178fd4316e055adf8e} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620594534416434/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:53.189 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620594534416434/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:57.822 [INFO] {b4912f8b7378741790d4316e7bf3ff2f} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (31%) (fast)
+2023-07-23 18:29:57.823 [INFO] {b4912f8b7378741790d4316e7bf3ff2f} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620613920497784/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:29:57.823 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620613920497784/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:03.227 [INFO] {3c5f55cd7478741791d4316eab114666} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (46%) (fast)
+2023-07-23 18:30:03.227 [INFO] {3c5f55cd7478741791d4316eab114666} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620635001065574/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:03.228 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620635001065574/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:08.882 [INFO] {68f9641e7678741792d4316eee3bc467} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (62%) (fast)
+2023-07-23 18:30:08.883 [INFO] {68f9641e7678741792d4316eee3bc467} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620654982733884/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:08.883 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620654982733884/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:12.303 [INFO] {40e34eea7678741793d4316e8b7d39ef} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (78%) (fast)
+2023-07-23 18:30:12.304 [INFO] {40e34eea7678741793d4316e8b7d39ef} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620674335252480/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:12.304 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620674335252480/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:18.356 [INFO] {aca31c537878741794d4316e121273ef} [DISCORD] Midjourney Bot MessageId: 1132620518332309646, MessageType: 20, MessageContent: **sky boy cat** - <@1097625793154256917> (93%) (fast)
+2023-07-23 18:30:18.357 [INFO] {aca31c537878741794d4316e121273ef} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620695872999476/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:18.358 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620695872999476/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:30:21.947 [INFO] {e47f1d297978741795d4316e8a2f8dff} [DISCORD] Midjourney Bot MessageId: 1132620713354862622, MessageType: 0, MessageContent: **sky boy cat** - <@1097625793154256917> (fast)
+2023-07-23 18:30:21.948 [INFO] {e47f1d297978741795d4316e8a2f8dff} task: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":1690108221947,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620712792838174/lokakk_sky_boy_cat_698eca7b-3f85-48f4-8b62-349dfc3e929a.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132620713354862622","messageHash":"698eca7b-3f85-48f4-8b62-349dfc3e929a","finalPrompt":"sky boy cat","progressMessageId":"1132620712792838174"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::698eca7b-3f85-48f4-8b62-349dfc3e929a::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2}]}
+2023-07-23 18:30:21.949 [INFO] {c4dbb2916c7874178bd4316e9966cb00} queueItem: {"id":"1683061787487895552","action":"IMAGINE","prompt":"sky boy cat","promptEn":"sky boy cat","description":"/imagine sky boy cat","state":"","submitTime":1690108175474,"startTime":0,"finishTime":1690108221947,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132620712792838174/lokakk_sky_boy_cat_698eca7b-3f85-48f4-8b62-349dfc3e929a.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132620713354862622","messageHash":"698eca7b-3f85-48f4-8b62-349dfc3e929a","finalPrompt":"sky boy cat","progressMessageId":"1132620712792838174"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::698eca7b-3f85-48f4-8b62-349dfc3e929a::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::698eca7b-3f85-48f4-8b62-349dfc3e929a","type":2}]}
+2023-07-23 18:32:07.394 [INFO] {740c4cb691787417b3d4316ee358a3b7} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:boy}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}
+2023-07-23 18:32:15.867 [ERRO] {740c4cb691787417b3d4316ee358a3b7} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65145->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/utility/util.HttpPost
+    E:/iim/iim-client/src/midjourney-proxy/utility/util/http.go:90
+3.  github.com/iimeta/midjourney-proxy/internal/logic/submit.(*sSubmitV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/logic/submit/submit_v1.go:47
+4.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:13
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+6.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+8.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+9.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+10. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+11. github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+12. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+13. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+17. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+19. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+20. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+21. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+22. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+23. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:15.871 [ERRO] {740c4cb691787417b3d4316ee358a3b7} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65145->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/internal/logic/submit.(*sSubmitV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/logic/submit/submit_v1.go:49
+3.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:13
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+8.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+10. github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+12. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+14. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+15. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+16. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+17. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+18. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+19. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+20. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+22. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:15.874 [ERRO] {740c4cb691787417b3d4316ee358a3b7} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65145->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:15
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+7.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+8.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+9.  github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+10. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+11. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+12. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+13. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+15. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+17. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+19. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+20. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+21. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:24.562 [INFO] {14bc80b595787417b4d4316ec6fc4cbc} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:boy}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}
+2023-07-23 18:32:33.050 [ERRO] {14bc80b595787417b4d4316ec6fc4cbc} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65163->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/utility/util.HttpPost
+    E:/iim/iim-client/src/midjourney-proxy/utility/util/http.go:90
+3.  github.com/iimeta/midjourney-proxy/internal/logic/submit.(*sSubmitV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/logic/submit/submit_v1.go:47
+4.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:13
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+6.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+8.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+9.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+10. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+11. github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+12. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+13. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+17. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+19. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+20. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+21. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+22. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+23. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:33.053 [ERRO] {14bc80b595787417b4d4316ec6fc4cbc} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65163->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/internal/logic/submit.(*sSubmitV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/logic/submit/submit_v1.go:49
+3.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:13
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+8.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+10. github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+12. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+14. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+15. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+16. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+17. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+18. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+19. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+20. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+22. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:33.057 [ERRO] {14bc80b595787417b4d4316ec6fc4cbc} request failed: Post "https://discord.com/api/v9/interactions": read tcp 127.0.0.1:65163->127.0.0.1:7890: wsarecv: An existing connection was forcibly closed by the remote host.
+Stack:
+1.  github.com/iimeta/midjourney-proxy/utility/logger.Error
+    E:/iim/iim-client/src/midjourney-proxy/utility/logger/logger.go:17
+2.  github.com/iimeta/midjourney-proxy/internal/controller/submit.(*ControllerV1).Imagine
+    E:/iim/iim-client/src/midjourney-proxy/internal/controller/submit/submit_v1_imagine.go:15
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:153
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:130
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:76
+7.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+8.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+9.  github.com/gogf/gf/v2/net/ghttp.MiddlewareHandlerResponse
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_handler_response.go:25
+10. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:56
+11. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+12. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:55
+13. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+15. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_middleware_tracing.go:79
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:97
+17. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_func.go:61
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:96
+19. github.com/gogf/gf/v2/util/gutil.TryCatch
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/util/gutil/gutil.go:56
+20. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_request_middleware.go:50
+21. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    E:/go/pkg/mod/github.com/gogf/gf/v2@v2.5.0/net/ghttp/ghttp_server_handler.go:132
+
+2023-07-23 18:32:46.839 [INFO] {98e75fe59a7874174757256b32e1eccd} ProxyURL: http://localhost:7890
+2023-07-23 18:32:46.841 [INFO] {98e75fe59a7874174757256b32e1eccd} ProxyURL: http://localhost:7890
+2023-07-23 18:32:55.364 [INFO] {98e75fe59a7874174757256b32e1eccd} [DISCORD] server start
+2023-07-23 18:33:05.758 [INFO] {047b0d4d9f7874174a57256b4c142181} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:boy}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}
+2023-07-23 18:33:10.320 [INFO] {047b0d4d9f7874174a57256b4c142181} HttpPost url: https://discord.com/api/v9/interactions, header: map[Authorization:MTA5NzYyNTc5MzE1NDI1NjkxNw.GUTiVj.hZYTwUO6NURwKWbw3k7gv0mL2LktVu6iec5BGg User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36], data: {Data:{Name:imagine Options:[{Name:prompt Type:3 Value:boy}] Id:938956540159881230 Type:1 Version:1118961510123847772} GuildId:1125264279336144906 SessionId:475c71a05d70586cb5c3c22c056e15c5 Type:2 ChannelId:1125264379491909632 ApplicationId:936929561302675456}, response: 
+2023-07-23 18:33:10.321 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390321,"startTime":0,"finishTime":0,"imageUrl":"","status":"NOT_START","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:10.735 [INFO] {1032b275a07874174b57256b8af131e2} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (Waiting to start)
+2023-07-23 18:33:10.736 [INFO] {1032b275a07874174b57256b8af131e2} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:10.736 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"","status":"SUBMITTED","progress":"","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:24.099 [INFO] {7ccf4792a37874175157256bba8c6933} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (0%) (fast)
+2023-07-23 18:33:24.100 [INFO] {7ccf4792a37874175157256bba8c6933} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621478228144209/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:24.101 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621478228144209/grid_0.webp","status":"IN_PROGRESS","progress":"0%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:30.071 [INFO] {f4dd2ef6a47874175457256b3adde79a} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (15%) (fast)
+2023-07-23 18:33:30.071 [INFO] {f4dd2ef6a47874175457256b3adde79a} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621504262189127/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:30.071 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621504262189127/grid_0.webp","status":"IN_PROGRESS","progress":"15%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:35.165 [INFO] {981adc25a67874175757256b921da73e} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (31%) (fast)
+2023-07-23 18:33:35.166 [INFO] {981adc25a67874175757256b921da73e} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621525741215814/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:35.167 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621525741215814/grid_0.webp","status":"IN_PROGRESS","progress":"31%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:39.727 [INFO] {c8edbd35a77874175957256b5d628ae6} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (46%) (fast)
+2023-07-23 18:33:39.727 [INFO] {c8edbd35a77874175957256b5d628ae6} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621544888217640/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:39.728 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621544888217640/grid_0.webp","status":"IN_PROGRESS","progress":"46%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:44.475 [INFO] {e43cb950a87874175c57256ba2f3243f} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (62%) (fast)
+2023-07-23 18:33:44.476 [INFO] {e43cb950a87874175c57256ba2f3243f} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621564228145182/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:44.476 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621564228145182/grid_0.webp","status":"IN_PROGRESS","progress":"62%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:49.548 [INFO] {98ff267fa97874175e57256b25c4573f} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (78%) (fast)
+2023-07-23 18:33:49.549 [INFO] {98ff267fa97874175e57256b25c4573f} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621585791062026/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:49.550 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621585791062026/grid_0.webp","status":"IN_PROGRESS","progress":"78%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:54.743 [INFO] {c87dc4b4aa7874176157256bb98914d8} [DISCORD] Midjourney Bot MessageId: 1132621422796214342, MessageType: 20, MessageContent: **boy** - <@1097625793154256917> (93%) (fast)
+2023-07-23 18:33:54.744 [INFO] {c87dc4b4aa7874176157256bb98914d8} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621607714697327/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:54.744 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":0,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621607714697327/grid_0.webp","status":"IN_PROGRESS","progress":"93%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"","messageHash":"","finalPrompt":"","progressMessageId":""},"buttons":null}
+2023-07-23 18:33:58.462 [INFO] {a4257192ab7874176357256b43828ce7} [DISCORD] Midjourney Bot MessageId: 1132621623531421776, MessageType: 0, MessageContent: **boy** - <@1097625793154256917> (fast)
+2023-07-23 18:33:58.464 [INFO] {a4257192ab7874176357256b43828ce7} task: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":1690108438463,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621622885486733/lokakk_boy_41b5fb2e-e359-4825-b819-114fd5419033.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132621623531421776","messageHash":"41b5fb2e-e359-4825-b819-114fd5419033","finalPrompt":"boy","progressMessageId":"1132621622885486733"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::41b5fb2e-e359-4825-b819-114fd5419033::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::41b5fb2e-e359-4825-b819-114fd5419033","type":2}]}
+2023-07-23 18:33:58.466 [INFO] {e40a93e19c7874174857256b3bb2a4be} queueItem: {"id":"1683062692413177856","action":"IMAGINE","prompt":"boy","promptEn":"boy","description":"/imagine boy","state":"","submitTime":1690108390736,"startTime":0,"finishTime":1690108438463,"imageUrl":"https://proxy.iim.ink/cdn.discordapp.com/attachments/1125264379491909632/1132621622885486733/lokakk_boy_41b5fb2e-e359-4825-b819-114fd5419033.png","status":"SUCCESS","progress":"100%","failReason":"","properties":{"notifyHook":null,"flags":0,"messageId":"1132621623531421776","messageHash":"41b5fb2e-e359-4825-b819-114fd5419033","finalPrompt":"boy","progressMessageId":"1132621622885486733"},"buttons":[{"label":"U1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::1::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::2::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::3::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"U4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::upsample::4::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"","style":2,"disabled":false,"emoji":{"name":"🔄"},"custom_id":"MJ::JOB::reroll::0::41b5fb2e-e359-4825-b819-114fd5419033::SOLO","type":2},{"label":"V1","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::1::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V2","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::2::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V3","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::3::41b5fb2e-e359-4825-b819-114fd5419033","type":2},{"label":"V4","style":2,"disabled":false,"emoji":{},"custom_id":"MJ::JOB::variation::4::41b5fb2e-e359-4825-b819-114fd5419033","type":2}]}

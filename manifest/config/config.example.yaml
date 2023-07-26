@@ -3,9 +3,36 @@ server:
   openapiPath: "/api.json"
   swaggerPath: "/swagger"
 
+# 日志配置
 logger:
-  level : "all"
-  stdout: true
+  path: "./log/"              # 日志文件路径。默认为空，表示关闭，仅输出到终端
+  file: "{Ymd_H}.log"         # 日志文件格式。默认为"{Y-m-d}.log"
+  prefix: ""                  # 日志内容输出前缀。默认为空
+  level: "debug"              # 日志输出级别, debug, info, error, all
+  ctxKeys: [ ]                # 自定义Context上下文变量名称，自动打印Context的变量到日志中。默认为空
+  header: true                # 是否打印日志的头信息。默认true
+  stdout: true                # 日志是否同时输出到终端。默认true
+  rotateSize: 0               # 按照日志文件大小对文件进行滚动切分。默认为0，表示关闭滚动切分特性
+  rotateExpire: 0             # 按照日志文件时间间隔对文件滚动切分。默认为0，表示关闭滚动切分特性
+  rotateBackupLimit: 0        # 按照切分的文件数量清理切分文件，当滚动切分特性开启时有效。默认为0，表示不备份，切分则删除
+  rotateBackupExpire: 0       # 按照切分的文件有效期清理切分文件，当滚动切分特性开启时有效。默认为0，表示不备份，切分则删除
+  rotateBackupCompress: 0     # 滚动切分文件的压缩比（0-9）。默认为0，表示不压缩
+  rotateCheckInterval: "1h"   # 滚动切分的时间检测间隔，一般不需要设置。默认为1小时
+  stdoutColorDisabled: false  # 关闭终端的颜色打印。默认开启
+  writerColorEnable: false    # 日志文件是否带上颜色。默认false，表示不带颜色
 
+http:
+  proxy_open: true  # 代理开关
+  proxy_url: http://localhost:7890  # 代理地址
 
-
+midjourney:
+  discord:
+    host: https://discord.com  # 默认https://discord.com
+    guild_id: 111  # 按教程获取 https://www.yuque.com/xiaoqi-vgsag/bn9t8h/wzg5kluuzzgd22m7
+    channel_id: 111  # 按教程获取 https://www.yuque.com/xiaoqi-vgsag/bn9t8h/wzg5kluuzzgd22m7
+    session_id: xxx  # 按教程获取 https://www.yuque.com/xiaoqi-vgsag/bn9t8h/wzg5kluuzzgd22m7
+    bot_token: xxx  # 按教程获取 https://www.yuque.com/xiaoqi-vgsag/bn9t8h/wzg5kluuzzgd22m7
+    cdn_proxy_url: https://cdn.discordapp.com  # https://cdn.discordapp.com的代理地址
+    header:
+      Authorization: "xxx"  # 在浏览器登录Discord, 按F12打开开发者模式, 随便打开一个请求, 复制Authorization请求头值即可
+      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"  # 在浏览器登录Discord, 按F12打开开发者模式, 随便打开一个请求, 复制User-Agent请求头值即可

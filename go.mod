@@ -2,7 +2,11 @@ module github.com/iimeta/midjourney-proxy
 
 go 1.20
 
-require github.com/gogf/gf/v2 v2.4.4
+require (
+	github.com/bwmarrin/discordgo v0.27.1
+	github.com/bwmarrin/snowflake v0.3.0
+	github.com/gogf/gf/v2 v2.5.0
+)
 
 require (
 	github.com/BurntSushi/toml v1.1.0 // indirect
@@ -21,8 +25,9 @@ require (
 	go.opentelemetry.io/otel v1.7.0 // indirect
 	go.opentelemetry.io/otel/sdk v1.7.0 // indirect
 	go.opentelemetry.io/otel/trace v1.7.0 // indirect
-	golang.org/x/net v0.0.0-20211123202848-9e5a29745d54 // indirect
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
-	golang.org/x/text v0.3.8-0.20211105212822-18b340fc7af2 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )

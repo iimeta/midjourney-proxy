@@ -2,12 +2,12 @@ package cmd
 
 import (
 	"context"
+	"github.com/iimeta/midjourney-proxy/internal/controller/submit"
+	"github.com/iimeta/midjourney-proxy/internal/controller/task"
 
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
 	"github.com/gogf/gf/v2/os/gcmd"
-
-	"github.com/iimeta/midjourney-proxy/internal/controller/hello"
 )
 
 var (
@@ -17,10 +17,12 @@ var (
 		Brief: "start http server",
 		Func: func(ctx context.Context, parser *gcmd.Parser) (err error) {
 			s := g.Server()
-			s.Group("/", func(group *ghttp.RouterGroup) {
+			s.SetServerRoot("./resource/iim-mobile/")
+			s.Group("/api/midjourney", func(group *ghttp.RouterGroup) {
 				group.Middleware(ghttp.MiddlewareHandlerResponse)
 				group.Bind(
-					hello.New(),
+					submit.NewV1(),
+					task.NewV1(),
 				)
 			})
 			s.Run()
